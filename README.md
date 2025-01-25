@@ -26,3 +26,6 @@ Link Ganchart : https://docs.google.com/spreadsheets/d/1L4Fh4V2dtmI4oQAluOJrl771
 **Link Website**
 Frontend: https://ecommerce.bayatmultijaya-shop.com
 Backend: https://backend.al-fatta.me
+
+**Link Presentasi Laporan Akhir**
+https://drive.google.com/file/d/1KUlWOE7H231yHzWdBDdmb9OjESqHhWOf/view?usp=sharing
